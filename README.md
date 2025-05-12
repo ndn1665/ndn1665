@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=#5657FF&text=Taeil%20Noh)
+![header](https://capsule-render.vercel.app/api?type=venom&color=_#5657FF&text=Taeil%20Noh)
 
 
 <!--
