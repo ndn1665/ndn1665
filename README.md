@@ -3,7 +3,7 @@
 ## My CV
 ![1 page CV](cv_1page.pdf)
 
-#### if you are interested..
+#### If you found the 1-page CV interesting, please check out my 2-page CV for more detailed information!
 ![2 page CV](cv_2page.pdf)
 
 ## 🧱 Tech Stack
