@@ -1,5 +1,4 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=#5657FF&text=Taeil%20Noh)
 
 
 <!--
