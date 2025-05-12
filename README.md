@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=BAFFE2&height=150&section=header&text=Bioinformatics%20AI%20Engineer&fontSize=40&animation=fadeIn)
 
 ## My CV
-![CV](cv_1page.pdf)
+![1 page CV](cv_1page.pdf)
+
+#### if you are interested..
+![2 page CV](cv_2page.pdf)
 
 ## 🧱 Tech Stack
   ### Language
